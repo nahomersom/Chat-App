@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724116265121",
+    "project_id": "chatapp-dc314",
+    "storage_bucket": "chatapp-dc314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724116265121:android:5b7a30694f8e538a84b8e0",
+        "android_client_info": {
+          "package_name": "com.sabelaSoft.understand_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724116265121-tk6dg5e0gqi74j2rpen7l4cfr4rku5ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABEUFBFxlLcASntyS18eXzwCb24a8R86E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724116265121-tk6dg5e0gqi74j2rpen7l4cfr4rku5ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
