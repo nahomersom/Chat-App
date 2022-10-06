@@ -1,16 +1,3 @@
-# understand_firebase
+# Chat-App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A chat application that makes it easy to communicate with people anywhere in the world by sending and receiving messages in real time. With a real-time chat app, users are able to receive the same engaging and lively interactions through custom messaging features, just as they would in person.
